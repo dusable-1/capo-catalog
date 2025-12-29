@@ -1,16 +1,20 @@
-"songs": [
-  {
-    "id": "opyat_metel",
-    "title": "Опять Метель",
-    "artist": "Алла Пугачева",
-    "content": "[Am]За тобой [B7]не закрывая [Em]дверь \n[Am]Я живу [B7]уже который [Em]год ",
-    "tags": ["ru, pugacheva"]
-  },
-  {
-    "id": "kino-gruppa-krovi",
-    "title": "Группа крови",
-    "artist": "Кино",
-    "content": "[Em]Группа крови на рукаве\n[Am]Мой порядковый номер",
-    "tags": ["ru", "rock"]
-  }
-]
+{
+  "version": 1,
+  "updatedAt": "2025-12-29T00:00:00Z",
+  "songs": [
+    {
+      "id": "opyat_metel",
+      "title": "Опять метель",
+      "artist": "Алла Пугачева",
+      "content": "[Am]За тобой [B7]не закрывая [Em]дверь\n[Am]Я живу [B7]уже который [Em]год",
+      "tags": ["ru", "pugacheva"]
+    },
+    {
+      "id": "kino-gruppa-krovi",
+      "title": "Группа крови",
+      "artist": "Кино",
+      "content": "[Em]Группа крови на рукаве\n[Am]Мой порядковый номер",
+      "tags": ["ru", "rock"]
+    }
+  ]
+}
